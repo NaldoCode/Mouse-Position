@@ -1,0 +1,10 @@
+C:\Users\Enaldo\Documents\Visual Studio 2019\Mouse Position\Mouse Position\bin\Debug\Mouse Position.exe.config
+C:\Users\Enaldo\Documents\Visual Studio 2019\Mouse Position\Mouse Position\bin\Debug\Mouse Position.exe
+C:\Users\Enaldo\Documents\Visual Studio 2019\Mouse Position\Mouse Position\bin\Debug\Mouse Position.pdb
+C:\Users\Enaldo\Documents\Visual Studio 2019\Mouse Position\Mouse Position\obj\Debug\Mouse Position.csprojAssemblyReference.cache
+C:\Users\Enaldo\Documents\Visual Studio 2019\Mouse Position\Mouse Position\obj\Debug\Mouse_Position.Properties.Resources.resources
+C:\Users\Enaldo\Documents\Visual Studio 2019\Mouse Position\Mouse Position\obj\Debug\Mouse Position.csproj.GenerateResource.cache
+C:\Users\Enaldo\Documents\Visual Studio 2019\Mouse Position\Mouse Position\obj\Debug\Mouse Position.csproj.CoreCompileInputs.cache
+C:\Users\Enaldo\Documents\Visual Studio 2019\Mouse Position\Mouse Position\obj\Debug\Mouse Position.exe
+C:\Users\Enaldo\Documents\Visual Studio 2019\Mouse Position\Mouse Position\obj\Debug\Mouse Position.pdb
+C:\Users\Enaldo\Documents\Visual Studio 2019\Mouse Position\Mouse Position\obj\Debug\Mouse_Position.FrmMousePosition.resources
